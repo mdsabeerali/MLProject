@@ -1,0 +1,6 @@
+pandas
+numpy
+seaborn
+matplotlib
+-e .
+#It will automatically trigger the setup.py file if you make any changes to it.
