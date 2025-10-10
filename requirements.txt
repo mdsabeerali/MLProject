@@ -2,5 +2,7 @@ pandas
 numpy
 seaborn
 matplotlib
--e .
+scikit-learn
+catboost
+#-e .
 #It will automatically trigger the setup.py file if you make any changes to it.
